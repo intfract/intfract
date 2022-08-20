@@ -1,7 +1,40 @@
 <h1 align="center">Int Fract</h1>
 
 <p align="center">Young <strong>math</strong> enthusiast and <strong>software developer</strong></p>
-<div align="center"><img src="https://img.shields.io/github/followers/intfract?colorA=%232f3136&colorB=%235865f2&label=Followers&style=for-the-badge"></div>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/intfract?colorA=%232f3136&colorB=%235865f2&label=Followers&style=for-the-badge">
+  <br/>
+  <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="https://github.com/intfract/polytangent">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <a href="https://github.com/intfract/defract">
+    <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=3178c6">
+  </a>
+  <a href="https://github.com/intfract/vue">
+    <img src="https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs&logoColor=41b883">
+  </a>
+  <a href="https://github.com/intfract/svelte">
+    <img src="https://img.shields.io/badge/Svelte-fff?style=for-the-badge&logo=svelte&logoColor=ff3e00">
+  </a>
+  <a href="https://github.com/intfract/react">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://github.com/intfract/python">
+    <img src="https://img.shields.io/badge/Python-3771a2?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/Replit-fff?style=for-the-badge&logo=replit&logoColor=black">
+  </a>
+  <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/Figma-f14e1c?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+</div>
 
 <h2 align="center">Top Projects</h2>
 
