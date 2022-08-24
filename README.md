@@ -25,6 +25,9 @@
   <a href="https://github.com/intfract/react">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
+  <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/Vite-916cfe?style=for-the-badge&logo=vite&logoColor=ffde3b">
+  </a>
   <a href="https://github.com/intfract/python">
     <img src="https://img.shields.io/badge/Python-3771a2?style=for-the-badge&logo=python&logoColor=white">
   </a>
