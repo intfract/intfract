@@ -31,6 +31,12 @@
   <a href="https://github.com/intfract/python">
     <img src="https://img.shields.io/badge/Python-3771a2?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  <a href="https://github.com/intfract/dart">
+    <img src="https://img.shields.io/badge/Dart-02589b?style=for-the-badge&logo=dart&logoColor=41c4ff">
+  </a>
+  <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/C_Sharp-ffffff?style=for-the-badge&logo=csharp&logoColor=239120">
+  </a>
   <a href="https://github.com/intfract">
     <img src="https://img.shields.io/badge/Replit-fff?style=for-the-badge&logo=replit&logoColor=black">
   </a>
