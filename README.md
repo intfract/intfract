@@ -65,7 +65,7 @@
   </a>
   <br/>
   <a href="https://github.com/intfract">
-    <img src="https://github-readme-stats.vercel.app/api?username=intfract&bg_color=2f3136&title_color=5865f2&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=intfract&bg_color=2f3136&title_color=5865f2&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&include_all_commits=true">
   </a>
 </div>
 
