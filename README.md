@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/C_Sharp-ffffff?style=for-the-badge&logo=csharp&logoColor=239120">
   </a>
   <a href="https://github.com/intfract">
+    <img src="https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  <a href="https://github.com/intfract">
     <img src="https://img.shields.io/badge/Replit-fff?style=for-the-badge&logo=replit&logoColor=black">
   </a>
   <a href="https://github.com/intfract">
