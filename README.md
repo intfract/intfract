@@ -75,20 +75,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=intfract&bg_color=2f3136&title_color=2c6fef&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&include_all_commits=true">
   </a>
 </div>
-
-<h2 align="center">Other</h2>
-
-<div align="center">
-  <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/Chess-Nationals-2c6fef?labelColor=2f3136&style=for-the-badge">
-  </a>
-  <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/Table%20Tennis-Regionals-2c6fef?labelColor=2f3136&style=for-the-badge">
-  </a>
-  <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/IGCSE-Maths-2c6fef?labelColor=2f3136&style=for-the-badge">
-  </a>
-  <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/IGCSE-Science-2c6fef?labelColor=2f3136&style=for-the-badge">
-  </a>
-</div>
