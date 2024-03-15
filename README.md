@@ -2,7 +2,7 @@
 
 <p align="center">Young <strong>math</strong> enthusiast and <strong>software developer</strong></p>
 <div align="center">
-  <img src="https://img.shields.io/github/followers/intfract?colorA=%232f3136&colorB=%232c6fef&label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/intfract?colorA=%230d1117&colorB=%232c6fef&label=Followers&style=for-the-badge">
   <br/>
   <a href="https://github.com/intfract">
     <img src="https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,16 +51,20 @@
 <h2 align="center">Top Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/intfract/defract">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=defract&show_owner=false&bg_color=2f3136&text_color=ffffff&hide_border=true&title_color=2c6fef">
+  <a href="https://github.com/intfract/igcsekit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=igcsekit&show_owner=false&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=2c6fef">
   </a>
   <br/>
   <a href="https://github.com/intfract/discord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=discord&show_owner=false&bg_color=2f3136&text_color=ffffff&hide_border=true&title_color=2c6fef">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=discord&show_owner=false&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=2c6fef">
   </a>
   <br/>
   <a href="https://github.com/intfract/chrome-hacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=chrome-hacker&show_owner=false&bg_color=2f3136&text_color=ffffff&hide_border=true&title_color=2c6fef">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=chrome-hacker&show_owner=false&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=2c6fef">
+  </a>
+  <br/>
+  <a href="https://github.com/intfract/minecraft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intfract&repo=minecraft&show_owner=false&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=2c6fef">
   </a>
 </div>
 
@@ -68,10 +72,10 @@
 
 <div align="center">
   <a href="https://npmjs.com/~fract">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intfract&title_color=2c6fef&bg_color=2f3136&text_color=ffffff&layout=compact&hide_border=true&count_private=true&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intfract&title_color=2c6fef&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true&count_private=true&langs_count=8">
   </a>
   <br/>
   <a href="https://github.com/intfract">
-    <img src="https://github-readme-stats.vercel.app/api?username=intfract&bg_color=2f3136&title_color=2c6fef&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=intfract&bg_color=0d1117&title_color=2c6fef&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&include_all_commits=true">
   </a>
 </div>
