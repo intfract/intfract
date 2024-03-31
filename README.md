@@ -1,6 +1,8 @@
 <h1 align="center">Int Fract</h1>
 
-<p align="center">Young <strong>math</strong> enthusiast and <strong>software developer</strong></p>
+<p align="center">
+  <strong>Software Developer</strong>
+</p>
 <div align="center">
   <img src="https://img.shields.io/github/followers/intfract?colorA=%230d1117&colorB=%232c6fef&label=Followers&style=for-the-badge">
   <br/>
@@ -35,13 +37,13 @@
     <img src="https://img.shields.io/badge/Dart-02589b?style=for-the-badge&logo=dart&logoColor=41c4ff">
   </a>
   <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/C_Sharp-ffffff?style=for-the-badge&logo=csharp&logoColor=239120">
+    <img src="https://img.shields.io/badge/C_Sharp-white?style=for-the-badge&logo=csharp&logoColor=239120">
   </a>
   <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
   </a>
   <a href="https://github.com/intfract">
-    <img src="https://img.shields.io/badge/Replit-fff?style=for-the-badge&logo=replit&logoColor=black">
+    <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black">
   </a>
   <a href="https://github.com/intfract">
     <img src="https://img.shields.io/badge/Figma-f14e1c?style=for-the-badge&logo=figma&logoColor=white">
