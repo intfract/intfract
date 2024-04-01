@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Svelte-fff?style=for-the-badge&logo=svelte&logoColor=ff3e00">
   </a>
   <a href="https://github.com/intfract/react">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb">
   </a>
   <a href="https://github.com/intfract">
     <img src="https://img.shields.io/badge/Vite-916cfe?style=for-the-badge&logo=vite&logoColor=ffde3b">
@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://npmjs.com/~fract">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intfract&title_color=2c6fef&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true&count_private=true&langs_count=8&exclude_repo=minecraft">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intfract&title_color=2c6fef&bg_color=0d1117&text_color=ffffff&layout=donut&hide_border=true&count_private=true&langs_count=8&exclude_repo=minecraft&hide=html,css">
   </a>
   <br/>
   <a href="https://github.com/intfract">
